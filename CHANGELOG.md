@@ -1,5 +1,9 @@
 # Changelog
 
+## [0.6] - 2020-11-15
+- Updated all dependencies.
+- Raised PHP minimum requirement to 7.3.
+
 ## [0.5] - 2018-04-13
 ### Added
 - `--nullify-globals` option: converts all global variable assignments to `null`.
